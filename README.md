@@ -22,7 +22,6 @@
     <img height="30" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png">
   </samp>
 </p>
-<br />
 
 ### 📱 Me acompanhe nas redes sociais
 
