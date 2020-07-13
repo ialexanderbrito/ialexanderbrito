@@ -4,7 +4,7 @@
 
 <p>
   <samp>
-     eu sou o <a href="https://www.linkedin.com/in/ialexanderbrito/"> Alexander</a>.
+     eu sou <b>Alexander</b>.
     <br />
     <br />Sou estudante de Sistemas de Informação na Universidade Unigranrio
     <br />e atualmente estou focando meus estudos na área de front-end com ReactJs e React Native.
