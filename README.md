@@ -2,6 +2,7 @@
 
   <samp>
      eu sou <b>Alexander</b>.
+  <br />
     <p align="center">
    <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
      <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
