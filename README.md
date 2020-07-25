@@ -27,7 +27,7 @@
     <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
     
    <a href="https://www.ialexanderbrito.com.br" target="_blank" >
-    <img alt="Portfólio" src="https://img.shields.io/badge/-Portfólio-black?style=flat-square&logoColor=white"></a>
+    <img alt="Portfólio" src="https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=google-chrome&logoColor=white"></a>
     </p>
     <br />Sou estudante de Sistemas de Informação na Univ. Unigranrio, apaixonado por futebol e pelo <b>Flamengo</b>🔴⚫. 
     <br />Nas horas vagas gosto de jogar Clash Royale e outros jogos variados e atualmente estou focando meus estudos
