@@ -58,4 +58,4 @@
 ### ⚡ Plus
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=ialexanderbrito&theme=default&show_icons=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&hide=css,html)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito)
