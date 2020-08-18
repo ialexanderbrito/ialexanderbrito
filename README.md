@@ -57,5 +57,11 @@
 
 ### ⚡ Plus
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=ialexanderbrito&theme=default&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true" alt="ialexanderbrito" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact" alt="ialexanderbrito" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/ialexanderbrito" target="_blank"><img alt="ialexanderbrito" src="https://badges.pufler.dev/visits/ialexanderbrito/ialexanderbrito?logo=GitHub&label=Visitas&color=black&logoColor=white&style=flat-square"/></a>
+</p>
