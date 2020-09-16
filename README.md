@@ -54,10 +54,3 @@
     <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobe.svg" />
   </p>
   </samp>
-
-### ⚡ Plus
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true" alt="ialexanderbrito" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact" alt="ialexanderbrito" />
-</p>
