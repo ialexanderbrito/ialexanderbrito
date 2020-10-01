@@ -50,6 +50,7 @@
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/logo-1889531-1597591.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />
