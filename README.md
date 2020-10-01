@@ -46,8 +46,9 @@
    <samp>
     <p align="center">
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/c-59-1175248.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
     <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" />
