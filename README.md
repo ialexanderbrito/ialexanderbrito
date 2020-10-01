@@ -25,32 +25,41 @@
     
    <a href="https://t.me/ialexanderbrito" target="_blank" >
     <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
-    
-   <a href="https://www.ialexanderbrito.com.br" target="_blank" >
-    <img alt="Portfólio" src="https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=google-chrome&logoColor=white"></a>
     </p>
-    <br />Sou estudante de Sistemas de Informação na Univ. Unigranrio, apaixonado por futebol e pelo <b>Flamengo</b>🔴⚫. 
-    <br />Nas horas vagas gosto de jogar Clash Royale e outros jogos variados e atualmente estou focando meus estudos
-    <br />na área de front-end com <b>ReactJs</b> e <b>React Native</b>. E também curto mexer com prototipações de
-    <br />tela com <b>Figma</b> e <b>Adobe XD</b> e edições de imagem com <b>Photoshop</b>.
-    <br/>
+    
+   </br>Sou estudante de Sistemas de Informação na Univ. Unigranrio, apaixonado por futebol e pelo <b>Flamengo</b>🔴⚫.
+   </br>Nas horas vagas gosto de jogar Clash Royale e outros jogos variados e atualmente estou focando meus estudos
+   </br>na área de front-end com <b>ReactJs</b> e <b>React Native</b>. E também curto mexer com prototipações de
+   </br>tela com <b>Figma</b> e <b>Adobe XD</b> e edições de imagem com <b>Photoshop</b>.
     </samp>
+    
+```js
+  const importantLinks = {
+    📒 Linkedin: 'https://www.linkedin.com/in/ialexanderbrito/', 
+    👨🏾‍💻 Site: 'https://ialexanderbrito.com.br',
+    👋 Email: 'ialexanderbrito@gmail.com',
+  }
+```
     
 ### :rocket: Linguagens, Frameworks e Ferramentas
 
    <samp>
     <p align="center">
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ionic.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
-    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobe.svg" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/c-59-1175248.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/logo-1889531-1597591.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
+    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />
+    <img height="40" width="40" src="https://code.visualstudio.com/assets/favicon.ico" />
+    <img height="40" width="40" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/square_256/figma-1-logo.png" />
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/220px-Adobe_XD_CC_icon.svg.png" />
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/493px-Adobe_Photoshop_CC_icon.svg.png" />
   </p>
   </samp>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=1b1b1b&icon_color=9146FF&text_color=1b1b1b&bg_color=ffffff" alt="ialexanderbrito" />
+</p>
