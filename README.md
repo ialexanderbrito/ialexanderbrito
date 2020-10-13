@@ -46,7 +46,7 @@
     <p align="left">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe XD-FF26BE.svg?style=for-the-badge&logo=adobe xd&logoColor=white" />
+    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe XD-FF26BE.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" />
     </p>
   </samp>
 
@@ -74,7 +74,7 @@
    <samp>
     <p align="left">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-      <img alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
+      <img alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
       <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
       <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
