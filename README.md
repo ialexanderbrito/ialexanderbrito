@@ -1,9 +1,7 @@
-### 🤙🏾 E aí, beleza?
+### 🤙🏾 E aí, beleza? Eu sou Alexander
 
   <samp>
-     eu sou <b>Alexander</b>.
-  <br />
-  <br />
+  </br>
     <p align="center">
    <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
      <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
@@ -26,12 +24,12 @@
    <a href="https://t.me/ialexanderbrito" target="_blank" >
     <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
     </p>
-    
-   </br>Sou estudante de Sistemas de Informação na Univ. Unigranrio, apaixonado por futebol e pelo <b>Flamengo</b>🔴⚫.
-   </br>Nas horas vagas gosto de jogar Clash Royale e outros jogos variados e atualmente estou focando meus estudos
-   </br>na área de front-end com <b>ReactJs</b> e <b>React Native</b>. E também curto mexer com prototipações de
-   </br>tela com <b>Figma</b> e <b>Adobe XD</b> e edições de imagem com <b>Photoshop</b>.
     </samp>
+
+    
+   Sou estudante de Sistemas de Informação na Universidade Unigranrio, apaixonado por futebol e pelo **Flamengo** 🔴⚫.
+   Nas horas vagas gosto de jogar **Clash Royale** e outros jogos mobiles e atualmente estou focando meus estudos
+   na área de front-end com **ReactJs** e **React Native**. E também curto mexer com prototipagens de tela com **Figma** e **Adobe XD** e edições de imagem com **Photoshop**.
     
 ```js
   const importantLinks = {
@@ -41,27 +39,49 @@
   }
 ```
     
-### :rocket: Linguagens, Frameworks e Ferramentas
+### 💻 Skills
 
+#### 🎨 Design: <br/>
    <samp>
-    <p align="center">
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/c-59-1175248.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/logo-1889531-1597591.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" />
-    <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" />
-    <img height="40" width="40" src="https://code.visualstudio.com/assets/favicon.ico" />
-    <img height="40" width="40" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/square_256/figma-1-logo.png" />
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/220px-Adobe_XD_CC_icon.svg.png" />
-    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/493px-Adobe_Photoshop_CC_icon.svg.png" />
-  </p>
+    <p align="left">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe XD-FF26BE.svg?style=for-the-badge&logo=adobe xd&logoColor=white" />
+    </p>
+  </samp>
+
+#### 💬 Linguagens: <br/>
+   <samp>
+    <p align="left">
+    <img alt="c" src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="java" src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img alt="typescript" src="https://img.shields.io/badge/typescript-1E84D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="html" src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="css" src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    </p>
+  </samp>
+
+#### 🔨 Framework: <br/>
+   <samp>
+    <p align="left">
+      <img alt="ReactJS" src="https://img.shields.io/badge/reactjs-0088cc.svg?style=for-the-badge&logo=react&logoColor=white" />
+      <img alt="React Native" src="https://img.shields.io/badge/react Native-61dafb.svg?style=for-the-badge&logo=react&logoColor=white" />
+    </p>
+  </samp>
+
+#### 🔧 Ferramentas & ambientes: <br/>
+   <samp>
+    <p align="left">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+    </p>
   </samp>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=1b1b1b&icon_color=9146FF&text_color=1b1b1b&bg_color=ffffff" alt="ialexanderbrito" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=1b1b1b&icon_color=1772D9&text_color=1b1b1b&bg_color=ffffff" alt="ialexanderbrito" />
+</p
