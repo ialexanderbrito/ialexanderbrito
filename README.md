@@ -83,5 +83,10 @@
   </samp>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=1b1b1b&icon_color=1772D9&text_color=1b1b1b&bg_color=ffffff" alt="ialexanderbrito" />
-</p
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact&title_color=1b1b1b"
+    />
+  <img align="center"
+      height="165" src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=1b1b1b&icon_color=1772D9&text_color=1b1b1b&bg_color=ffffff" alt="ialexanderbrito" />
+</p>
