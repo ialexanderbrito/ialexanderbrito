@@ -52,8 +52,8 @@
     <img alt="java" src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
     <img alt="typescript" src="https://img.shields.io/badge/typescript-1E84D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="html" src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="css" src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     </p>
   </samp>
 
@@ -64,13 +64,22 @@
       <img alt="React Native" src="https://img.shields.io/badge/react Native-61dafb.svg?style=for-the-badge&logo=react&logoColor=white" />
     </p>
   </samp>
+  
+#### 📦 Banco de Dados: <br/>
+<samp>
+    <p align="left">
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+    </p>
+  </samp>
 
 #### 🔧 Ferramentas & ambientes: <br/>
    <samp>
     <p align="left">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
       <img alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white" />
       <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
       <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
       <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
