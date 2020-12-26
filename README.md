@@ -22,7 +22,7 @@
     </samp>
 
     
-   Sou estudante de Sistemas de Informação na Universidade Unigranrio, apaixonado por futebol e pelo **Flamengo** 🔴⚫.
+   Sou formado em Sistemas de Informação pela Universidade Unigranrio, apaixonado por futebol e pelo **Flamengo** 🔴⚫.<br/>
    Nas horas vagas gosto de jogar **Clash Royale** e outros jogos mobiles e atualmente estou focando meus estudos
    na área de front-end com **ReactJs** e **React Native**. E também curto mexer com prototipagens de tela com **Figma** e **Adobe XD** e edições de imagem com **Photoshop**.
     
