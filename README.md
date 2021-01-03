@@ -89,8 +89,8 @@
 <p align="center">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact&title_color=1b1b1b"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact&title_color=ebebeb&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22"
     />
   <img align="center"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=1b1b1b&icon_color=1772D9&text_color=1b1b1b&bg_color=ffffff" alt="ialexanderbrito" />
+      height="165" src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=ebebeb&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="ialexanderbrito" />
 </p>
