@@ -39,58 +39,64 @@
 #### 🎨 Design: <br/>
    <samp>
     <p align="left">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
-    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe XD-FF26BE.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+    <img alt="Figma" src=".github/figma.svg" width="20px" />
+    <img alt="Photoshop" src=".github/adobephotoshop.svg" width="28px" />
+    <img alt="Adobe XD" src=".github/adobexd.svg" width="28px" />
     </p>
   </samp>
 
 #### 💬 Linguagens: <br/>
    <samp>
     <p align="left">
-    <img alt="c" src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
-    <img alt="java" src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img alt="typescript" src="https://img.shields.io/badge/typescript-1E84D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="C" src=".github/c.svg" width="28px" />
+    <img alt="Java" src=".github/java.svg" width="28px" />
+    <img alt="Javascript" src=".github/javascript.svg" width="28px" />
+    <img alt="Typescript" src=".github/typescript.svg" width="28px" />
+    <img alt="HTML5" src=".github/html5.svg" width="28px" />
+    <img alt="CSS3" src=".github/css3.svg" width="28px" />
     </p>
   </samp>
 
 #### 🔨 Framework: <br/>
    <samp>
     <p align="left">
-      <img alt="ReactJS" src="https://img.shields.io/badge/reactjs-0088cc.svg?style=for-the-badge&logo=react&logoColor=white" />
-      <img alt="React Native" src="https://img.shields.io/badge/react Native-61dafb.svg?style=for-the-badge&logo=react&logoColor=white" />
+     <img alt="React" src=".github/react.svg" width="28px" />
+     <img alt="React Native" src=".github/reactnative.svg" width="28px" />
+     <img alt="Next.js" src=".github/next-dot-js.svg" width="28px" />
     </p>
   </samp>
   
 #### 📦 Banco de Dados: <br/>
 <samp>
     <p align="left">
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+      <img alt="PostgreSQL" src=".github/postgresql.svg" width="28px" />
+      <img alt="MongoDB" src=".github/mongodb.svg" width="28px" />
     </p>
   </samp>
-
+  
 #### 🔧 Ferramentas & ambientes: <br/>
    <samp>
     <p align="left">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-      <img alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-      <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white" />
-      <img alt="Nodejs" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+      <img alt="Git" src=".github/git.svg" width="28px" />
+      <img alt="VS Code" src=".github/vscode.svg" width="28px" />
+      <img alt="ESLint" src=".github/eslint.svg" width="28px" />
+      <img alt="Prettier" src=".github/prettier.svg" width="28px" />
+      <img alt="Insomnia" src=".github/insomnia.svg" width="28px" />
+      <img alt="Node.js" src=".github/node-dot-js.svg" width="28px" />
+      <img alt="Azure DevOps" src=".github/azuredevops.svg" width="28px" />
+      <img alt="NPM" src=".github/npm.svg" width="28px" />
+      <img alt="Yarn" src=".github/yarn.svg" width="28px" />
+      <img alt="Styled Components" src=".github/styled-components.svg" width="28px" />
+      <img alt="Tailwind CSS" src=".github/tailwindcss.svg" width="28px" />
+      <img alt="Material UI" src=".github/material-ui.svg" width="28px" />
     </p>
   </samp>
 
 <p align="center">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
     />
   <img align="center"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00&hide_border=true" />
+      height="165" src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
 </p>
