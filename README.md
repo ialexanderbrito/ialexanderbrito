@@ -36,6 +36,8 @@
     
 ### 💻 Skills
 
+<a href="https://app.daily.dev/ialexanderbrito"><img src="https://api.daily.dev/devcards/0adea1ad36fe4c47b199dd8b5b520688.png?r=sum" width="256" align="right" alt="Alexander's Dev Card"/></a>
+
 #### 🎨 Design: <br/>
    <samp>
     <p align="left">
