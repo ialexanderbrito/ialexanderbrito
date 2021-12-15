@@ -28,8 +28,8 @@
     
 ```js
   const importantLinks = {
-    📒 Linkedin: 'https://www.linkedin.com/in/ialexanderbrito/', 
     👨🏾‍💻 Site: 'https://ialexanderbrito.com.br',
+    📒 Linkedin: 'https://www.linkedin.com/in/ialexanderbrito/',
     👋 Email: 'ialexanderbrito@gmail.com',
   }
 ```
@@ -52,8 +52,6 @@
 #### 💬 Linguagens: <br/>
    <samp>
     <p align="left">
-    <img alt="C" src=".github/c.svg" width="28px" />
-    <img alt="Java" src=".github/java.svg" width="28px" />
     <img alt="Javascript" src=".github/javascript.svg" width="28px" />
     <img alt="Typescript" src=".github/typescript.svg" width="28px" />
     <img alt="HTML5" src=".github/html5.svg" width="28px" />
@@ -67,14 +65,6 @@
      <img alt="React" src=".github/react.svg" width="28px" />
      <img alt="React Native" src=".github/reactnative.svg" width="28px" />
      <img alt="Next.js" src=".github/next-dot-js.svg" width="28px" />
-    </p>
-  </samp>
-  
-#### 📦 Banco de Dados: <br/>
-<samp>
-    <p align="left">
-      <img alt="PostgreSQL" src=".github/postgresql.svg" width="28px" />
-      <img alt="MongoDB" src=".github/mongodb.svg" width="28px" />
     </p>
   </samp>
   
