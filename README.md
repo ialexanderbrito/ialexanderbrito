@@ -28,7 +28,7 @@
     
 ```js
   const importantLinks = {
-    👨🏾‍💻 Site: 'https://ialexanderbrito.com.br',
+    👨🏾‍💻 Site: 'https://ialexanderbrito.dev',
     📒 Linkedin: 'https://www.linkedin.com/in/ialexanderbrito/',
     👋 Email: 'ialexanderbrito@gmail.com',
   }
