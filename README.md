@@ -23,8 +23,8 @@
 
     
    Sou formado em Sistemas de Informação pela Universidade Unigranrio, apaixonado por futebol e pelo **Flamengo** 🔴⚫.<br/>
-   Nas horas vagas gosto de jogar **Clash Royale** e outros jogos mobiles e atualmente estou focando meus estudos
-   na área de front-end com **ReactJs** e **React Native**. E também curto mexer com prototipagens de tela com **Figma** e **Adobe XD** e edições de imagem com **Photoshop**.
+   Nas horas vagas gosto de jogar com meus amigos e fazer uns projetinhos pra praticar e atualmente sou **Dev. Front-end Pleno React** 
+   na @IKSolution, também curto mexer com prototipagens de tela com **Figma** e edições de imagem com **Photoshop**.
     
 ```js
   const importantLinks = {
@@ -45,7 +45,6 @@
     <p align="left">
     <img alt="Figma" src=".github/figma.svg" width="20px" />
     <img alt="Photoshop" src=".github/adobephotoshop.svg" width="28px" />
-    <img alt="Adobe XD" src=".github/adobexd.svg" width="28px" />
     </p>
   </samp>
 
