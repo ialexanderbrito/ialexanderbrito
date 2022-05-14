@@ -43,45 +43,49 @@
 #### 🎨 Design: <br/>
    <samp>
     <p align="left">
-    <img alt="Figma" src=".github/figma.svg" width="20px" />
-    <img alt="Photoshop" src=".github/adobephotoshop.svg" width="28px" />
+    <img alt="Figma" src=".github/figma.svg" width="16px" />
+    <img alt="Photoshop" src=".github/adobephotoshop.svg" width="24px" />
     </p>
   </samp>
 
 #### 💬 Linguagens: <br/>
    <samp>
     <p align="left">
-    <img alt="Javascript" src=".github/javascript.svg" width="28px" />
-    <img alt="Typescript" src=".github/typescript.svg" width="28px" />
-    <img alt="HTML5" src=".github/html5.svg" width="28px" />
-    <img alt="CSS3" src=".github/css3.svg" width="28px" />
+    <img alt="Javascript" src=".github/javascript.svg" width="24px" />
+    <img alt="Typescript" src=".github/typescript.svg" width="24px" />
+    <img alt="HTML5" src=".github/html5.svg" width="24px" />
+    <img alt="CSS3" src=".github/css3.svg" width="24px" />
     </p>
   </samp>
 
 #### 🔨 Framework: <br/>
    <samp>
     <p align="left">
-     <img alt="React" src=".github/react.svg" width="28px" />
-     <img alt="React Native" src=".github/reactnative.svg" width="28px" />
-     <img alt="Next.js" src=".github/next-dot-js.svg" width="28px" />
+     <img alt="React" src=".github/react.svg" width="24px" />
+     <img alt="React Native" src=".github/reactnative.svg" width="24px" />
+     <img alt="Next.js" src=".github/next-dot-js.svg" width="24px" />
+     <img alt="Vite.js" src=".github/vite.svg" width="24px" />
     </p>
   </samp>
   
 #### 🔧 Ferramentas & ambientes: <br/>
    <samp>
     <p align="left">
-      <img alt="Git" src=".github/git.svg" width="28px" />
-      <img alt="VS Code" src=".github/vscode.svg" width="28px" />
-      <img alt="ESLint" src=".github/eslint.svg" width="28px" />
-      <img alt="Prettier" src=".github/prettier.svg" width="28px" />
-      <img alt="Insomnia" src=".github/insomnia.svg" width="28px" />
-      <img alt="Node.js" src=".github/node-dot-js.svg" width="28px" />
-      <img alt="Azure DevOps" src=".github/azuredevops.svg" width="28px" />
-      <img alt="NPM" src=".github/npm.svg" width="28px" />
-      <img alt="Yarn" src=".github/yarn.svg" width="28px" />
-      <img alt="Styled Components" src=".github/styled-components.svg" width="28px" />
-      <img alt="Tailwind CSS" src=".github/tailwindcss.svg" width="28px" />
-      <img alt="Material UI" src=".github/material-ui.svg" width="28px" />
+      <img alt="Git" src=".github/git.svg" width="24px" />
+      <img alt="VS Code" src=".github/vscode.svg" width="24px" />
+      <img alt="ESLint" src=".github/eslint.svg" width="24px" />
+      <img alt="Prettier" src=".github/prettier.svg" width="24px" />
+      <img alt="Insomnia" src=".github/insomnia.svg" width="24px" />
+      <img alt="Node.js" src=".github/node-dot-js.svg" width="24px" />
+      <img alt="Azure DevOps" src=".github/azuredevops.svg" width="24px" />
+      <img alt="NPM" src=".github/npm.svg" width="24px" />
+      <img alt="Yarn" src=".github/yarn.svg" width="24px" />
+      <img alt="Sass" src=".github/sass.svg" width="24px" />
+      <img alt="Styled Components" src=".github/styled-components.svg" width="24px" />
+      <img alt="Tailwind CSS" src=".github/tailwindcss.svg" width="24px" />
+      <img alt="Material UI" src=".github/material-ui.svg" width="24px" />
+      <img alt="Ant Design" src=".github/antdesign.svg" width="24px" />
+      <img alt="Chakra UI" src=".github/chakraui.svg" width="24px" />
     </p>
   </samp>
 
