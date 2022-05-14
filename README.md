@@ -90,8 +90,7 @@
   </samp>
 
 <p align="center">
-    <img
-      align="center"
+  <img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
     />
   <img align="center"
