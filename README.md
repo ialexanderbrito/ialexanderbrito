@@ -37,7 +37,7 @@
 ### 💻 Skills
 
 <a href="https://app.daily.dev/ialexanderbrito">
-<img src="https://raw.githubusercontent.com/ialexanderbrito/ialexanderbrito/devcard/devcard.svg" width="256" align="right" alt="Alexander's Dev Card"/>
+<img src="https://raw.githubusercontent.com/ialexanderbrito/ialexanderbrito/devcard/devcard.svg" width="216" align="right" alt="Alexander's Dev Card"/>
 </a>
 
 #### 🎨 Design: <br/>
