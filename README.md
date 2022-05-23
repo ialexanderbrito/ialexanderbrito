@@ -17,6 +17,9 @@
   
   <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
     <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+  
+  <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
+    <img alt="Email" src="https://komarev.com/ghpvc/?username=ialexanderbrito&color=blueviolet&style=flat-square"></a>
     
 </p>
     </samp>
@@ -33,7 +36,10 @@
     👋 Email: 'ialexanderbrito@gmail.com',
   }
 ```
-    
+
+<details>
+  <summary><b>Ver mais</b></summary>
+  
 ### 💻 Skills
 
 <a href="https://app.daily.dev/ialexanderbrito">
@@ -96,3 +102,4 @@
   <img align="center"
       height="165" src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
 </p>
+</details>
