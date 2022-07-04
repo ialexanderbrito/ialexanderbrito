@@ -84,6 +84,8 @@
       <img alt="Insomnia" src=".github/insomnia.svg" width="24px" />
       <img alt="Node.js" src=".github/node-dot-js.svg" width="24px" />
       <img alt="Azure DevOps" src=".github/azuredevops.svg" width="24px" />
+      <img alt="Github Actions" src=".github/githubactions.svg" width="24px" />
+      <img alt="Semantic Release" src=".github/semantic.svg" width="24px" />
       <img alt="NPM" src=".github/npm.svg" width="24px" />
       <img alt="Yarn" src=".github/yarn.svg" width="24px" />
       <img alt="Sass" src=".github/sass.svg" width="24px" />
@@ -92,6 +94,7 @@
       <img alt="Material UI" src=".github/material-ui.svg" width="24px" />
       <img alt="Ant Design" src=".github/antdesign.svg" width="24px" />
       <img alt="Chakra UI" src=".github/chakraui.svg" width="24px" />
+      <img alt="PWA" src=".github/pwa.svg" width="24px" />
     </p>
   </samp>
 
