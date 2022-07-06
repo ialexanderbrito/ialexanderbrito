@@ -27,7 +27,7 @@
     
    Sou formado em Sistemas de Informação pela Universidade Unigranrio, apaixonado por futebol e pelo **Flamengo** 🔴⚫.<br/>
    Nas horas vagas gosto de jogar com meus amigos e fazer uns projetinhos pra praticar e atualmente sou **Dev. Front-end Pleno React** 
-   na **[IKSolution](https://github.com/iksolution/)**, também curto mexer com prototipagens de tela com **Figma** e edições de imagem com **Photoshop**.
+   na **[Localiza](https://www.localiza.com/brasil/pt-br)**, também curto mexer com prototipagens de tela com **Figma** e edições de imagem com **Photoshop**.
     
 ```js
   const importantLinks = {
