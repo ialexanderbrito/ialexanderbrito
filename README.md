@@ -46,6 +46,8 @@
 <img src="https://raw.githubusercontent.com/ialexanderbrito/ialexanderbrito/devcard/devcard.svg" width="216" align="right" alt="Alexander's Dev Card"/>
 </a>
 
+s
+
 #### 🎨 Design: <br/>
    <samp>
     <p align="left">
