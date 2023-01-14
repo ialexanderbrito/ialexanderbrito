@@ -100,9 +100,9 @@
 
 <p align="center">
   <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
+      src="githubrstats.vercel.app/api/top-langs/?username=ialexanderbrito&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
     />
   <img align="center"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
+      height="165" src="githubrstats.vercel.app/api?username=ialexanderbrito&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
 </p>
 </details>
