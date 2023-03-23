@@ -17,9 +17,6 @@
   
   <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
     <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-  
-  <a href="mailto:eu@ialexanderbrito.dev" target="_blank" >
-    <img alt="Email" src="https://komarev.com/ghpvc/?username=ialexanderbrito&color=blueviolet&style=flat-square"></a>
     
 </p>
     </samp>
