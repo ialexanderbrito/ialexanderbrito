@@ -3,12 +3,12 @@
 <samp>
 </br>
   <p align="center">
-      <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
+      <a href="https://twitter.com/ialexanderbrito" target="_blank" >
         <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white">
       </a>
       <a href="https://instagram.com/ialexanderbrito" target="_blank" >
         <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white">
-      </a> 
+      </a>
       <a href="https://www.linkedin.com/in/ialexanderbrito/" target="_blank" >
         <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white">
       </a>
@@ -21,7 +21,7 @@
   </p>
 </samp>
       <a href="https://app.daily.dev/ialexanderbrito">
-        <img src="https://raw.githubusercontent.com/ialexanderbrito/ialexanderbrito/devcard/devcard.svg" width="216" align="right" alt="Alexander's Dev Card"/>
+        <img src="https://raw.githubusercontent.com/ialexanderbrito/ialexanderbrito/devcard/devcard.png" width="216" align="right" alt="Alexander's Dev Card"/>
       </a>
       
    Sou formado em Sistemas de Informação pela Universidade Unigranrio, apaixonado por futebol e pelo **Flamengo** 🔴⚫.<br/>
