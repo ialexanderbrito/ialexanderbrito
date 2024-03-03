@@ -1,27 +1,29 @@
 ### 🤙🏾 E aí, beleza? Eu sou Alexander
 
-  <samp>
-  </br>
-    <p align="center">
- <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
-     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
-  
-  <a href="https://instagram.com/ialexanderbrito" target="_blank" >
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
-
-  <a href="https://www.linkedin.com/in/ialexanderbrito/" target="_blank" >
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    
-  <a href="https://t.me/ialexanderbrito" target="_blank" >
-    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
-  
-  <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
-    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-    
-</p>
-    </samp>
-
-    
+<samp>
+</br>
+  <p align="center">
+      <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
+        <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white">
+      </a>
+      <a href="https://instagram.com/ialexanderbrito" target="_blank" >
+        <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white">
+      </a> 
+      <a href="https://www.linkedin.com/in/ialexanderbrito/" target="_blank" >
+        <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white">
+      </a>
+      <a href="https://t.me/ialexanderbrito" target="_blank" >
+        <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white">
+      </a>
+      <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
+        <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white">
+      </a>
+  </p>
+</samp>
+      <a href="https://app.daily.dev/ialexanderbrito">
+        <img src="https://raw.githubusercontent.com/ialexanderbrito/ialexanderbrito/devcard/devcard.svg" width="216" align="right" alt="Alexander's Dev Card"/>
+      </a>
+      
    Sou formado em Sistemas de Informação pela Universidade Unigranrio, apaixonado por futebol e pelo **Flamengo** 🔴⚫.<br/>
    Nas horas vagas gosto de jogar com meus amigos e fazer uns projetinhos pra praticar e atualmente sou **Dev. Front-end Pleno React** 
    na **[Localiza](https://www.localiza.com/brasil/pt-br)**, também curto mexer com prototipagens de tela com **Figma** e edições de imagem com **Photoshop**.
@@ -39,9 +41,7 @@
   
 ### 💻 Skills
 
-<a href="https://app.daily.dev/ialexanderbrito">
-<img src="https://raw.githubusercontent.com/ialexanderbrito/ialexanderbrito/devcard/devcard.svg" width="216" align="right" alt="Alexander's Dev Card"/>
-</a>
+
 
 #### 🎨 Design: <br/>
    <samp>
