@@ -4,7 +4,7 @@
 </br>
   <p align="center">
       <a href="https://twitter.com/ialexanderbrito" target="_blank" >
-        <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white">
+        <img alt="X" src="https://img.shields.io/badge/-X (Twitter)-000?style=flat-square&logo=X&logoColor=white&backgroundColor="black">
       </a>
       <a href="https://instagram.com/ialexanderbrito" target="_blank" >
         <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white">
@@ -41,16 +41,6 @@
   
 ### 💻 Skills
 
-
-
-#### 🎨 Design: <br/>
-   <samp>
-    <p align="left">
-    <img alt="Figma" src=".github/figma.svg" width="16px" />
-    <img alt="Photoshop" src=".github/adobephotoshop.svg" width="24px" />
-    </p>
-  </samp>
-
 #### 💬 Linguagens: <br/>
    <samp>
     <p align="left">
@@ -70,7 +60,15 @@
      <img alt="Vite.js" src=".github/vite.svg" width="24px" />
     </p>
   </samp>
-  
+
+#### 🎨 Design: <br/>
+   <samp>
+    <p align="left">
+    <img alt="Figma" src=".github/figma.svg" width="16px" />
+    <img alt="Photoshop" src=".github/adobephotoshop.svg" width="24px" />
+    </p>
+  </samp>
+
 #### 🔧 Ferramentas & ambientes: <br/>
    <samp>
     <p align="left">
