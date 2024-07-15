@@ -25,7 +25,7 @@
       </a>
       
    Sou formado em Sistemas de Informação pela Universidade Unigranrio, apaixonado por futebol e pelo **Flamengo** 🔴⚫.<br/>
-   Tenho meu prório SaaS que venho desenvolvendo nos tempos ociosos que é o <a href="https://uollet.com.br">uollet</a>, não deixe de dar uma passada lá.<br/>
+   Tenho meu prório SaaS que venho desenvolvendo no tempo ocioso que é o <a href="https://uollet.com.br">uollet</a>, não deixe de dar uma passada lá.<br/>
    Nas horas vagas gosto de jogar com meus amigos e fazer uns projetinhos pra praticar e atualmente sou **Dev. Front-end Pleno React** 
    na **[Localiza](https://www.localiza.com/brasil/pt-br)**, também curto mexer com prototipagens de tela com **Figma** e edições de imagem com **Photoshop**.
     
